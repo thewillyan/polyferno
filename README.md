@@ -1,2 +1,3 @@
-# polyferno
-Decentralized Federated Learning framework powered by Burn.
+# Polyferno
+
+Decentralized Federated Learning framework powered by [Burn](https://burn.dev/).
