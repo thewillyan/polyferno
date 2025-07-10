@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 burn = "0.17.1"
 iceoryx2 = "0.6.1"
+iceoryx2-bb-container = "0.6.1"

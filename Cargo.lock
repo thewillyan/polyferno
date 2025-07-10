@@ -3372,6 +3372,7 @@ version = "0.1.0"
 dependencies = [
  "burn",
  "iceoryx2",
+ "iceoryx2-bb-container",
 ]
 
 [[package]]
